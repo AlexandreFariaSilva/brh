@@ -1,7 +1,3 @@
-echo "# brh" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AlexandreFariaSilva/brh.git
-git push -u origin main
+# OLÁ ESSE É O PROJETO BRH 
+## Esse projeto está divido em 5 branches e serão acrescentadas mais a cada semana
+### Branch - Semana1
